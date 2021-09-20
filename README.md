@@ -5,7 +5,7 @@
 ### Installation
 
 ```vim
-Plug 'huyvohcmc/atlas.vim'
+Plug 'CMOISDEAD/atlas.vim'
 ```
 
 Then `:PlugInstall`.
